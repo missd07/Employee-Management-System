@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmpMS.Properties.Resources" Collapsed="true">
+    <Position X="32.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAQAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Properties.Settings" Collapsed="true">
+    <Position X="31" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Attendance">
+    <Position X="15" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EmpMS.Attendance.ComboboxItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Attendance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>eghAHxoIESFiKJFAIZKFADAKABBBIiAQSTgkqQBIEqA=</HashCode>
+      <FileName>Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.BaseForm">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Email">
+    <Position X="28.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAICQgABAAIACIgAADAgAAACAAACAQAEIAAQA=</HashCode>
+      <FileName>Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Employee">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>KABABAYAgSAgCJAhIECE0AACINQCCAAEYQgAQQTAEAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.EmployeeDashboard">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EmpMS.EmployeeDashboard.AttendanceRecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmployeeDashboard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EmpMS.EmployeeDashboard.PayrollData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmployeeDashboard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>iAoQ0LIRADgBIBFEIAamEAACSMRAJAQAACBEEACAIhA=</HashCode>
+      <FileName>EmployeeDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.ForgetPassword">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CCAAAgAAACAAABQAIACAgAALAAAEAAAACAlgAgKAQAg=</HashCode>
+      <FileName>ForgetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Home">
+    <Position X="24" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EmpMS.Home.ChartColors" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Home.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EmpMS.Home.AttendanceStats" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Home.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>jIAgICBBiOAAABBsoICgAAwGYAYCQAAAAEAgCDISACE=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.SpiritedAwayBathhousePalette" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAQAEAAAAAgAACAAAA=</HashCode>
+      <FileName>IColorPalette.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EmpMS.Login">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAASAAABAAIAihBAACAAAABgAAAAEAQAAAIAE=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.PayRoll">
+    <Position X="19.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EmpMS.PayRoll.ComboboxItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PayRoll.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>e5ECDAgiASEoCDRAoDWJpBRDAZQQCDosACBAwBRAGYI=</HashCode>
+      <FileName>PayRoll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Profile">
+    <Position X="26.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAIQgAQkADgAChAEoAaEkBACEIBCBQQAAEAAIQAAIhA=</HashCode>
+      <FileName>Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.Program" Collapsed="true">
+    <Position X="31" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.RequestforLeave">
+    <Position X="6" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>KAAABAAAASAAABAAIACAAEgCCAAACgAEACAAAQAAAgA=</HashCode>
+      <FileName>RequestforLeave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.ResetPassword">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAMAAAAAACAAABAAIACgBAACAAAAAAgAAAgAAAAAJAg=</HashCode>
+      <FileName>ResetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpMS.View_Attendance">
+    <Position X="21.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAARAAAAACQQAAAAIACcAAgCCBAACAAQkACAAgAAAAA=</HashCode>
+      <FileName>View Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EmpMS.IColorPalette" Collapsed="true">
+    <Position X="31" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAQAEAAAAAgAACAAAA=</HashCode>
+      <FileName>IColorPalette.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
